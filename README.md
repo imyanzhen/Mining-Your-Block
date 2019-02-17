@@ -1,5 +1,5 @@
 # Mining-Your-Block
-A python script for block mining.
+Complete a python script for block mining. I have provided you a quick recipe, you may want to fill the currently commented out lines. Or code it in your own way! 
 
 In this assignment, please complete the python script so that:
 (1) Make sure that your transaction record has your name. You can also put down any messages that you would like to tell me :)
